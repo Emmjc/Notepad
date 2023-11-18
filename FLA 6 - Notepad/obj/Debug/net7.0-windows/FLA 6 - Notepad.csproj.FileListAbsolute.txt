@@ -1,0 +1,32 @@
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.exe
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.deps.json
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.runtimeconfig.json
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.dll
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.pdb
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA_6___Notepad.Form1.resources
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.csproj.GenerateResource.cache
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.AssemblyInfoInputs.cache
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.AssemblyInfo.cs
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.dll
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\refint\FLA 6 - Notepad.dll
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.pdb
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.genruntimeconfig.cache
+C:\Users\User\Documents\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\ref\FLA 6 - Notepad.dll
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.exe
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.deps.json
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.runtimeconfig.json
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.dll
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\bin\Debug\net7.0-windows\FLA 6 - Notepad.pdb
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA_6___Notepad.Form1.resources
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.AssemblyInfo.cs
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.dll
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\refint\FLA 6 - Notepad.dll
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.pdb
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\FLA 6 - Notepad.genruntimeconfig.cache
+C:\Users\Asus\Downloads\BSIT-2A (2023-2024)\FLA 6 - Notepad\obj\Debug\net7.0-windows\ref\FLA 6 - Notepad.dll
